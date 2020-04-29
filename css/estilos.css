@@ -1,0 +1,40 @@
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+  height: 300px;
+}
+
+p {
+  font-size: 18px;
+  line-height: 2;
+  color: black ;
+  font-family: sans-serif;
+}
+
+html {
+  background-color: #FFFFFF;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #F4F4F4;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 1;
+  padding: 0px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2,li{
+  font-size: 20px;
+  font-family: cursive;
+}
